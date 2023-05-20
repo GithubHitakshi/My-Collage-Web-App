@@ -1,0 +1,25 @@
+body{
+    background-size:cover ;
+}
+h1{
+    font-weight: 900;
+    font-style:oblique;
+    
+}
+h3{
+    color:red;
+}
+#imgtag{
+    height: 100px;
+    width: 100px;
+}
+#h3tag{
+    color: rebeccapurple;
+    font-weight:bold;
+}
+#result1, #result2 {
+    display:inline;
+}
+
+
+
